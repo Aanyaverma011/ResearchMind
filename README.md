@@ -77,7 +77,7 @@ This creates a complete **Search → Read → Write → Critique** research work
                     │  Final Research  │
                     │      Report      │
                     ___________________
-
+```
 ✨ Key Features
 
 🔎 AI-Powered Web Research
